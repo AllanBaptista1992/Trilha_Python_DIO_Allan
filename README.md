@@ -1,6 +1,3 @@
-# Trilha_Python_DIO_Allan
-
-
 # Trilha_Suzano_Python_DIO
 
 
